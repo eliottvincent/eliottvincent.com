@@ -1,2 +1,2 @@
 # eliottvincent.com
-personal website
+my personal website
