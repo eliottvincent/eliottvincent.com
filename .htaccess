@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# if url starts with 'index.html', we replace with '/'
+RewriteRule ^index\.html$ / [R=301,L]
+
+# if url ends with 'index.html', we remove the 'index.html' bit
+RewriteRule ^(.*)/index\.html$ /$1/ [R=301,L]
