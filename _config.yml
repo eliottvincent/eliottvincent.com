@@ -1,0 +1,59 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Eliott Vincent
+description: >- # this means to ignore newlines until "baseurl:"
+  Hello! My name is Eliott Vincent. I'm a Software Engineer at Crisp.
+baseurl: "" # the subpath of the site
+url: "https://eliottvincent.com" # the base hostname & protocol for the site
+og_image: /assets/img/profile-pic.jpg
+google_analytics: "UA-121636368-1"
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Work
+    - name: Blog (soon!)
+      slug: /blog
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: hello@eliottvincent.com
+      link: mailto:hello@eliottvincent.com
+  follow:
+    - name: Twitter
+      link: http://twitter.com/eliottvct
+      username: "@eliottvct"
+    - name: LinkedIn
+      link: http://linkedin.com/in/eliott-vincent
+    - name: GitHub
+      link: http://github.com/eliottvincent
+    - name: Strava
+      link: https://www.strava.com/athletes/eliott_vincent
+
+# Build settings
+theme: bay_jekyll_theme
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
