@@ -41,7 +41,7 @@ items:
   }
 </style>
 <p>
-  (My <a target="_blank" href="../img/eliott-vincent-resume.pdf">résumé</a>).
+  (My <a target="_blank" href="{{ "/assets/eliott-vincent-resume.pdf" | absolute_url }}">résumé</a>).
 </p>
 
 <br />
