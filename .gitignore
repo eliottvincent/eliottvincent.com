@@ -1,4 +1,6 @@
-_site
+build/
+serve/
+.build-hash
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
