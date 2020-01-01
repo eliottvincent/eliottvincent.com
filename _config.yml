@@ -46,10 +46,12 @@ plugins:
 exclude:
   - .sass-cache/
   - .jekyll-cache/
+  - build/
   - feed.xml
   - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - tasks/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/

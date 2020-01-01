@@ -1,0 +1,5 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+baseurl: "" # the subpath of the site
+url: "http://eliottvincent.com.local" # the base hostname & protocol for the site
