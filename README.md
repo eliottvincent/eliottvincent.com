@@ -16,3 +16,8 @@ My personal website. [[view live]](https://eliottvincent.com)
 ```sh
 ./tasks/dev.sh
 ```
+
+#### Update dependencies
+```sh
+bundle update
+```
