@@ -27,7 +27,7 @@ items:
     image:
       src: /assets/img/work/entrepreneurship.png
       alt: entrepreneurship
-    description: With some classmates, I've started Handy, a project about consumer support for physical products. We even won the <a target="_blank" href="https://twitter.com/Anticipa/status/984456553955823617">Technological</a> <a target="_blank" href="http://blog.enssat.fr/2018/03/entrepreneuriales-handy-on-leur-dit-oui.html">Innovation</a> <a target="_blank" href="http://www.technopole-anticipa.com/Les-Entrepreneuriales-en-Bretagne-l-equipe-Handy-de-l-ENSSAT-laureate-du-prix.html">Prize</a> in the 2018 regional finale of “Les Entrepreneuriales”!
+    description: With some classmates, I've started Handy, a project about consumer support for physical products. We even won the <a target="_blank" href="https://twitter.com/Anticipa/status/984456553955823617">Technological</a> <a target="_blank" href="http://blog.enssat.fr/2018/03/entrepreneuriales-handy-on-leur-dit-oui.html">Innovation</a> <a target="_blank" href="https://www.technopole-anticipa.com/les-entrepreneuriales-en-bretagne-lequipe-handy-de-lenssat-laureate-du-prix-innovation-technologique/">Prize</a> in the 2018 regional finale of “Les Entrepreneuriales”!
 ---
 <style type="text/css">
   .work-bubble{
