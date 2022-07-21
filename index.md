@@ -7,7 +7,7 @@ profile_picture:
 
 <p>
   Hello! My name is Eliott Vincent. I grew up (and still live) in France. I'm currently part of an amazing team at <a target="_blank" href="https://crisp.chat">Crisp</a>.
-  Previously I worked at <a target="_blank" href="https://www.orange.com/en/Infographics/L-innovation-chez-Orange/Innovation-at-Orange">Orange Labs</a>.
+  Previously I worked at <a target="_blank" href="https://hellofuture.orange.com/en/">Orange Labs</a>.
 </p>
 
 <p>
