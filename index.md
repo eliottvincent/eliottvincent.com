@@ -11,5 +11,5 @@ profile_picture:
 </p>
 
 <p>
-  Apart from working, I <a target="_blank" href="https://docs.google.com/spreadsheets/d/1V1Q3mkyXENaJYUxkJkGah7HV2WaMw5o98MKm6kQIICM/edit?usp=sharing">read</a>, run, and take some <a target="_blank" href="https://eliottvincentphotography.com">pictures</a>.
+  Apart from working, I read, run, and take some pictures.
 </p>
