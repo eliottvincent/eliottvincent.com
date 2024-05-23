@@ -11,14 +11,12 @@ pushd "$BASE_DIR" > /dev/null
   fi
 
   if [[ "$cur_env" = "production" ]]; then
-    env JEKYLL_ENV=production \
-      bundle exec jekyll build \
+    env JEKYLL_ENV=production bundle exec jekyll build \
       --destination ./build \
       --config _config.yml
     rc=$?
   else
-    env JEKYLL_ENV=development \
-      bundle exec jekyll build \
+    env JEKYLL_ENV=development bundle exec jekyll build \
       --destination ./build \
       --config _config.yml,_config_local.yml
     rc=$?

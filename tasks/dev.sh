@@ -5,8 +5,8 @@ BASE_DIR="$ABSPATH/../"
 
 pushd "$BASE_DIR" > /dev/null
   bundle exec jekyll serve \
-              --destination ./serve \
-              --config _config.yml,_config_local_development.yml
+    --destination ./serve \
+    --config _config.yml,_config_local_development.yml
   rc=$?
 popd > /dev/null
 
