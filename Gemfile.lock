@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
-    bay_jekyll_theme (1.0.20)
+    bay_jekyll_theme (1.0.21)
     colorator (1.1.0)
     concurrent-ruby (1.2.3)
     em-websocket (0.5.3)
