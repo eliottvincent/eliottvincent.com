@@ -20,18 +20,21 @@ header:
 footer:
   show_powered_by: true
   contact:
-    - name: Email
+    - type: email
       value: hello@eliottvincent.com
-      link: mailto:hello@eliottvincent.com
   follow:
-    - name: Twitter
+    - type: twitter
+      name: Twitter
       link: http://twitter.com/eliottvct
       username: "@eliottvct"
-    - name: LinkedIn
+    - type: linkedin
+      name: LinkedIn
       link: http://linkedin.com/in/eliott-vincent
-    - name: GitHub
+    - type: github
+      name: GitHub
       link: http://github.com/eliottvincent
-    - name: Strava
+    - type: strava
+      name: Strava
       link: https://www.strava.com/athletes/eliott_vincent
 
 # Build settings
