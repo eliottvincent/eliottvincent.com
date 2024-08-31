@@ -40,8 +40,7 @@ items:
     height: 100px;
   }
 </style>
-<p>
-  (My <a target="_blank" href="{{ "/assets/eliott-vincent-resume.pdf" | absolute_url }}">résumé</a>).
-</p>
 
-<br />
+<p>(My <a target="_blank" href="{{ "/assets/eliott-vincent-resume.pdf" | absolute_url }}">résumé</a>).</p>
+
+<br/>
