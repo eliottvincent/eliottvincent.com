@@ -14,8 +14,6 @@ header:
     - name: Home
       slug: /
     - name: Work
-    - name: Blog (soon!)
-      slug: /blog
 
 footer:
   show_powered_by: true
