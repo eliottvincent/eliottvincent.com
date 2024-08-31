@@ -14,5 +14,5 @@ profile_picture:
 </p>
 
 <p>
-  Apart from working, I travel, run, and take some pictures.
+  Apart from working, I travel, take some pictures, and simply enjoy life.
 </p>
