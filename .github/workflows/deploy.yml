@@ -16,13 +16,6 @@ jobs:
           ruby-version: '2.7'
           bundler-cache: true # Will run `bundle install` and cache gems
 
-      - name: Debug
-        run: |
-          echo $GITHUB_HEAD_REF
-          echo $GITHUB_REF_NAME
-          echo "$GITHUB_HEAD_REF"
-          echo "$GITHUB_REF_NAME"
-
       - name: Build site
         run: ./tasks/start.sh production
 
