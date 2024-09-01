@@ -17,7 +17,7 @@ jobs:
           bundler-cache: true # Will run `bundle install` and cache gems
 
       - name: Build site
-        run: ./tasks/start.sh
+        run: ./tasks/start.sh production
 
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@v1
