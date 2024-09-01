@@ -13,7 +13,7 @@ jobs:
       - name: Set up Ruby and install dependencies
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
+          ruby-version: '2.7'
           bundler-cache: true # Will run `bundle install` and cache gems
 
       - name: Build site
