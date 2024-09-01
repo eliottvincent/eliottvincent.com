@@ -18,8 +18,10 @@ jobs:
 
       - name: Debug
         run: |
-          echo env.GITHUB_HEAD_REF
-          echo env.GITHUB_REF_NAME
+          echo $GITHUB_HEAD_REF
+          echo $GITHUB_REF_NAME
+          echo "$GITHUB_HEAD_REF"
+          echo "$GITHUB_REF_NAME"
 
       - name: Build site
         run: ./tasks/start.sh production
