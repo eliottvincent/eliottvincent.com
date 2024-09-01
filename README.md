@@ -1,4 +1,4 @@
-# eliottvincent-pro
+# eliottvincent.com
 My personal website. [[view live]](https://eliottvincent.com)
 
 
