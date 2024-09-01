@@ -16,11 +16,13 @@ jobs:
           ruby-version: '2.7'
           bundler-cache: true # Will run `bundle install` and cache gems
 
-      - name: Build site
-        run: ./tasks/start.sh production
+      - name: Debug
         run: |
           echo env.GITHUB_HEAD_REF
           echo env.GITHUB_REF_NAME
+
+      - name: Build site
+        run: ./tasks/start.sh production
 
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@v1
