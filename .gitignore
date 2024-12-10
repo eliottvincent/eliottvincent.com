@@ -5,4 +5,4 @@ serve/
 .jekyll-cache
 .jekyll-metadata
 vendor
-*.psd
+Gemfile.lock
