@@ -24,7 +24,7 @@ bundle update
 
 #### Troubleshooting
 
-#### Bundler errors
+##### Bundler errors
 
 If the error `Failed to open TCP connection to rubygems.org:443 (execution expired)` occurs, change the following configuration:
 
