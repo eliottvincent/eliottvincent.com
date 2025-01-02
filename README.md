@@ -21,3 +21,13 @@ My personal website. [[view live]](https://eliottvincent.com)
 ```sh
 bundle update
 ```
+
+#### Troubleshooting
+
+#### Bundler errors
+
+If the error `Failed to open TCP connection to rubygems.org:443 (execution expired)` occurs, change the following configuration:
+
+```
+System Preferences > Wi-Fi > Details > TCP/IP > Configure IPv6 > Link-Local Only
+```
