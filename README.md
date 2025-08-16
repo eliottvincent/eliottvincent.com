@@ -1,5 +1,5 @@
 # eliottvincent.com
-My personal website. [[view live]](https://eliottvincent.com)
+My personal website. [[view live]](https://elio.tt)
 
 
 #### Generate a development build

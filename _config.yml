@@ -5,7 +5,7 @@ title: Eliott Vincent
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! My name is Eliott Vincent. I'm a Software Engineer at Crisp.
 baseurl: "" # the subpath of the site
-url: "https://eliottvincent.com" # the base hostname & protocol for the site
+url: "https://elio.tt" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.webp
 google_analytics: "UA-121636368-1"
 
