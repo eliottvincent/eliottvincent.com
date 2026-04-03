@@ -9,6 +9,6 @@ profile_picture:
 
 <p>I'm currently part of an amazing team at <a target="_blank" href="https://crisp.chat">Crisp</a>. I also work on <a target="_blank" href="https://jomo.so">Jomo</a> and some other projects.</p>
 
-<p>Previously I worked at <a target="_blank" href="https://hellofuture.orange.com/en/">Orange Labs</a>.</p>
+<p>Previously I worked in R&D at <a target="_blank" href="https://hellofuture.orange.com/en/">Orange Labs</a>.</p>
 
 <p>Apart from working, I travel, take some pictures, and simply enjoy life.</p>
