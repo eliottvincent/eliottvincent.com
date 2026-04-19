@@ -32,9 +32,9 @@ footer:
     - type: github
       name: GitHub
       link: http://github.com/eliottvincent
-    - type: strava
-      name: Strava
-      link: https://www.strava.com/athletes/eliott_vincent
+    - type: instagram
+      name: Instagram
+      link: https://www.instagram.com/eliottvct/
 
 # Build settings
 theme: bay_jekyll_theme

@@ -1,6 +1,6 @@
 # eliottvincent.com
-My personal website. [[view live]](https://elio.tt)
 
+My personal website. [[view live]](https://elio.tt)
 
 #### Generate a development build
 ```sh
