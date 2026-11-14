@@ -2,6 +2,6 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 baseurl: "" # the subpath of the site
-url: "http://dev.eliottvincent.com.local" # the base hostname & protocol for the site
-host: "dev.eliottvincent.com.local"
+url: "http://localhost:4010"
+host: "127.0.0.1"
 port: 4010
